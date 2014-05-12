@@ -1,0 +1,28 @@
+﻿body { 
+    color: black;
+    font-family: Arial, Helvetica, Sans-serif;
+    font-size: 10pt;
+    margin: 0 auto;
+}
+
+#content {
+    width: 700px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+#leftside {
+    width: 191px;
+    height: 500px;
+    border: 2px solid black;
+    padding: 20px 5px 5px 5px;
+    float: left;
+}
+
+#rightside {
+    width: 450px;
+    height: 500px;
+    border: 2px solid black;
+    padding: 20px 5px 5px 35px;
+    float: right;
+}
