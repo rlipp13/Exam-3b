@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head id="Head1" runat="server">
+<head runat="server">
     <title></title>
     <link rel="stylesheet" type="text/css" href="./StyleSheet.css" />
 </head>
@@ -16,7 +16,7 @@
     <div id="content">
         <div id="leftside">
             <center>
-                <asp:Label ID="Label1" runat="server" Text="Please choose your language:" meta:resourcekey="label1"></asp:Label>
+                <asp:Label ID="langLabel" runat="server" Text="Please choose your language:" meta:resourcekey="langLabel"></asp:Label>
                 <br />
                 <br />
             <asp:DropDownList ID="language1" runat="server" Width="108px" AutoPostBack="true" Height="22px" AppendDataBoundItems="True">
@@ -28,21 +28,21 @@
             </center>
         </div>
         <div id="rightside">
-            <asp:Label ID="Label6" runat="server" Text="Hello" meta:resourcekey="Label6"></asp:Label>
-            <asp:Label ID="Label7" runat="server" meta:resourcekey="label7" ></asp:Label>
-            <asp:Label ID="Label15" runat="server" meta:resourcekey="label15" />
-            <asp:Label ID="Label8" runat="server" ></asp:Label>
+            <asp:Label ID="helloLabel" runat="server" Text="Hello" meta:resourcekey="helloLabel"></asp:Label>
+            <asp:Label ID="mrLabel" runat="server" meta:resourcekey="mrLabel" ></asp:Label>
+            <asp:Label ID="mrsLabel" runat="server" meta:resourcekey="mrsLabel" />
+            <asp:Label ID="sessionNameLabel" runat="server" ></asp:Label>
             <br />
             <br />
-            <asp:Label ID="Label9" runat="server" Text="I hope you have a great day when you graduate on" meta:resourcekey="Label9" />
-            <asp:Label ID="Label10" runat="server" ></asp:Label> &nbsp;!<br />
+            <asp:Label ID="label3" runat="server" Text="I hope you have a great day when you graduate on" meta:resourcekey="label3" />
+            <asp:Label ID="sessionDateLabel" runat="server" ></asp:Label> &nbsp;!<br />
             <br />
-            <asp:Label ID="Label11" runat="server" Text="I wish you well in your career after graduation. I hope you earn" meta:resourcekey="Label11" />
-            <asp:Label ID="Label12" runat="server" ></asp:Label>
-            <asp:Label ID="Label13" runat="server" Text="as a salary in your first job !" meta:resourcekey="Label13" />
+            <asp:Label ID="wishLabel" runat="server" Text="I wish you well in your career after graduation. I hope you earn" meta:resourcekey="wishLabel" />
+            <asp:Label ID="Label4" runat="server" ></asp:Label>
+            <asp:Label ID="wishLabel2" runat="server" Text="as a salary in your first job !" meta:resourcekey="wishLabel2" />
             <br />
             <br />
-            <asp:Label ID="Label14" runat="server" Text="Please visit me on " meta:resourcekey="Label14" />
+            <asp:Label ID="visitLabel" runat="server" Text="Please visit me on " meta:resourcekey="visitLabel" />
             <asp:HyperLink id="link1" runat="server" Text="Github" NavigateUrl="https://github.com/rlipp13" Target="_blank" />
             <br />
             <br />

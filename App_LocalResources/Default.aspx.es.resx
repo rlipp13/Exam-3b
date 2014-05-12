@@ -117,34 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="btnSubmit" xml:space="preserve">
+  <data name="btnSubmit.text" xml:space="preserve">
     <value>Presentar</value>
   </data>
-  <data name="earnLabel" xml:space="preserve">
+  <data name="earnLabel.text" xml:space="preserve">
     <value>Cuando me gradúe, espero ganar:</value>
   </data>
-  <data name="femaleButton" xml:space="preserve">
+  <data name="femaleButton.text" xml:space="preserve">
     <value>Femenino</value>
   </data>
-  <data name="gradLabel" xml:space="preserve">
+  <data name="gradLabel.text" xml:space="preserve">
     <value>Tengo la intención de graduarse a</value>
   </data>
-  <data name="langLabel" xml:space="preserve">
-    <value>Por favor, escriba Salario</value>
+  <data name="langLabel.text" xml:space="preserve">
+    <value>Por favor, elija su idioma:</value>
   </data>
-  <data name="lblHeader1" xml:space="preserve">
-    <value>Welcome to 6K:183</value>
+  <data name="lblHeader1.text" xml:space="preserve">
+    <value>Bienvenido a 6K: 183</value>
   </data>
-  <data name="lblHeader2" xml:space="preserve">
+  <data name="lblHeader2.text" xml:space="preserve">
     <value>Diseño y Desarrollo de Software</value>
   </data>
-  <data name="maleButton" xml:space="preserve">
+  <data name="maleButton.text" xml:space="preserve">
     <value>Masculino</value>
   </data>
-  <data name="nameLabel" xml:space="preserve">
+  <data name="nameLabel.text" xml:space="preserve">
     <value>Mi nombre es</value>
   </data>
-  <data name="radioLabel" xml:space="preserve">
+  <data name="radioLabel.text" xml:space="preserve">
     <value>Estoy</value>
   </data>
 </root>

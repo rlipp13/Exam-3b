@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head id="Head1" runat="server">
+<head runat="server">
     <title></title>
     <link rel="stylesheet" type="text/css" href="./StyleSheet.css" />
 </head>
@@ -11,7 +11,7 @@
     <form id="form1" runat="server">
         <center>
         <h1><asp:Label ID="lblHeader1" runat="server" text="Welcome to 6K:183" meta:resourcekey="lblHeader1" /></h1>
-        <h3><asp:Label ID="lblHeader2" runat="server" text="Software design and development" meta:resourcekey="lblHeader2" /></h3>
+        <h3><asp:Label ID="lblHeader2" runat="server" text="Software Design and Development" meta:resourcekey="lblHeader2" /></h3>
         </center>
     <div id="content">
         <div id="leftside">
@@ -42,7 +42,7 @@
             <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
             <br />
             <asp:Label ID="earnLabel" runat="server" text="When I graduate, I hope to earn:" meta:resourcekey="earnLabel" />
-            &nbsp;<asp:TextBox ID="tbSalary" runat="server" Width="175px" value="Enter a number" onFocus="this.value=''"></asp:TextBox>
+            &nbsp;<asp:TextBox ID="tbSalary" runat="server" Width="175px" value="Enter a number" onFocus="this.value=''" ></asp:TextBox>
             
             
             <br />

@@ -20,16 +20,16 @@ Partial Class _Default
         Dim salary As Decimal = CType(Session.Item("salary"), String)
 
         If Session("male") = True Then
-            Label7.Text = "Mr."
+            mrLabel.Text = "Mr."
         End If
 
         If Session("female") = True Then
-            Label15.Text = "Mrs."
+            mrsLabel.Text = "Mrs."
         End If
 
-        Label8.Text = Session("name")
-        Label10.Text = Session("date")
-        Label12.Text = String.Format("{0:c}", salary)
+        sessionNameLabel.Text = Session("name")
+        sessionDateLabel.Text = Session("date")
+        Label4.Text = String.Format("{0:c}", salary)
 
     End Sub
 

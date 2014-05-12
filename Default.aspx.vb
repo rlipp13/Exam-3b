@@ -7,11 +7,11 @@ Partial Class _Default
 
     Protected Overrides Sub InitializeCulture()
 
-        Dim language As String = Request("language1")
+        Dim lang As String = Request("language1")
 
-        If language IsNot Nothing Or language <> "" Then
-            Thread.CurrentThread.CurrentUICulture = New CultureInfo(language)
-            Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture(language)
+        If lang IsNot Nothing Or lang <> "" Then
+            Thread.CurrentThread.CurrentUICulture = New CultureInfo(lang)
+            Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture(lang)
         End If
 
     End Sub

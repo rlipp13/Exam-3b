@@ -117,37 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="btnSubmit" xml:space="preserve">
-    <value>Submit</value>
+  <data name="helloLabel.text" xml:space="preserve">
+    <value>¡Hola</value>
   </data>
-  <data name="earnLabel" xml:space="preserve">
-    <value>When I graduate, I hope to earn</value>
+  <data name="label3.text" xml:space="preserve">
+    <value>Espero que tengas un gran día cuando se gradúe en</value>
   </data>
-  <data name="femaleButton" xml:space="preserve">
-    <value>Female</value>
+  <data name="langLabel.text" xml:space="preserve">
+    <value>Por favor seleccione su idioma:</value>
   </data>
-  <data name="gradLabel" xml:space="preserve">
-    <value>I plan to graduate on:</value>
+  <data name="mrLabel.text" xml:space="preserve">
+    <value>Sr.</value>
   </data>
-  <data name="langLabel" xml:space="preserve">
-    <value>Please choose your language:</value>
+  <data name="mrsLabel.text" xml:space="preserve">
+    <value>Sra.</value>
   </data>
-  <data name="lblHeader1" xml:space="preserve">
-    <value>Welcome to 6K:183</value>
+  <data name="visitLabel.text" xml:space="preserve">
+    <value>Por favor, visite conmigo en</value>
   </data>
-  <data name="lblHeader2" xml:space="preserve">
-    <value>Software Design and Development</value>
+  <data name="wishLabel.text" xml:space="preserve">
+    <value>Te deseo lo mejor en su carrera después de la graduación. Espero que usted gana</value>
   </data>
-  <data name="maleButton" xml:space="preserve">
-    <value>Male</value>
-  </data>
-  <data name="nameLabel" xml:space="preserve">
-    <value>My name is:</value>
-  </data>
-  <data name="radioLabel" xml:space="preserve">
-    <value>I am:</value>
-  </data>
-  <data name="tbName" xml:space="preserve">
-    <value>Enter full name</value>
+  <data name="wishLabel2.text" xml:space="preserve">
+    <value>como un salario en su primer trabajo!</value>
   </data>
 </root>

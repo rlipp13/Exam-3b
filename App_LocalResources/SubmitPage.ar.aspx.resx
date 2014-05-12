@@ -117,37 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="btnSubmit" xml:space="preserve">
-    <value>Submit</value>
+  <data name="helloLabel.text" xml:space="preserve">
+    <value>مرحبا</value>
   </data>
-  <data name="earnLabel" xml:space="preserve">
-    <value>When I graduate, I hope to earn</value>
+  <data name="label3.text" xml:space="preserve">
+    <value>آمل أن يكون لديك يوم عظيم عند التخرج على</value>
   </data>
-  <data name="femaleButton" xml:space="preserve">
-    <value>Female</value>
+  <data name="langLabel.text" xml:space="preserve">
+    <value>: الرجاء اختيار لغتك</value>
   </data>
-  <data name="gradLabel" xml:space="preserve">
-    <value>I plan to graduate on:</value>
+  <data name="mrLabel.text" xml:space="preserve">
+    <value>سيد</value>
   </data>
-  <data name="langLabel" xml:space="preserve">
-    <value>Please choose your language:</value>
+  <data name="mrsLabel.text" xml:space="preserve">
+    <value>مدام</value>
   </data>
-  <data name="lblHeader1" xml:space="preserve">
-    <value>Welcome to 6K:183</value>
+  <data name="visitLabel.text" xml:space="preserve">
+    <value>يرجى زيارة لي على</value>
   </data>
-  <data name="lblHeader2" xml:space="preserve">
-    <value>Software Design and Development</value>
+  <data name="wishLabel.text" xml:space="preserve">
+    <value>أتمنى لكم التوفيق في حياتك المهنية بعد التخرج. آمل أن تكسب</value>
   </data>
-  <data name="maleButton" xml:space="preserve">
-    <value>Male</value>
-  </data>
-  <data name="nameLabel" xml:space="preserve">
-    <value>My name is:</value>
-  </data>
-  <data name="radioLabel" xml:space="preserve">
-    <value>I am:</value>
-  </data>
-  <data name="tbName" xml:space="preserve">
-    <value>Enter full name</value>
+  <data name="wishLabel2.text" xml:space="preserve">
+    <value>كما راتبا في وظيفتك الأولى!</value>
   </data>
 </root>
