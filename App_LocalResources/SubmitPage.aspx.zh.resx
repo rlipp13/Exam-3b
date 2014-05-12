@@ -118,27 +118,27 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="helloLabel.text" xml:space="preserve">
-    <value>¡Hola</value>
+    <value>你好</value>
   </data>
   <data name="label3.text" xml:space="preserve">
-    <value>Espero que tengas un gran día cuando se gradúe en</value>
+    <value>我希望你有一個偉大的日子，當你畢業的</value>
   </data>
   <data name="langLabel.text" xml:space="preserve">
-    <value>Por favor seleccione su idioma:</value>
+    <value>請選擇您的語言：</value>
   </data>
-  <data name="mrLabel.text" xml:space="preserve">
-    <value>Sr.</value>
+  <data name="lblHeader1.text" xml:space="preserve">
+    <value>歡迎6K：183</value>
   </data>
-  <data name="mrsLabel.text" xml:space="preserve">
-    <value>Sra.</value>
+  <data name="lblHeader2.text" xml:space="preserve">
+    <value>軟件設計與開發</value>
   </data>
   <data name="visitLabel.text" xml:space="preserve">
-    <value>Por favor, visite conmigo en</value>
+    <value>請訪問我的</value>
   </data>
   <data name="wishLabel.text" xml:space="preserve">
-    <value>Te deseo lo mejor en su carrera después de la graduación. Espero que usted gana</value>
+    <value>我祝愿你在你的職業生涯，畢業後。我希望你賺</value>
   </data>
   <data name="wishLabel2.text" xml:space="preserve">
-    <value>como un salario en su primer trabajo!</value>
+    <value>在你的第一份工作的薪水！</value>
   </data>
 </root>

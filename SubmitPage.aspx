@@ -11,10 +11,10 @@
     <form id="form1" runat="server">
         <center>
         <h1><asp:Label ID="lblHeader1" runat="server" text="Welcome to 6K:183" meta:resourcekey="lblHeader1" /></h1>
-        <h3><asp:Label ID="lblHeader2" runat="server" text="Software design and development" meta:resourcekey="lblHeader2" /></h3>
+        <h3><asp:Label ID="lblHeader2" runat="server" text="Software Design and Development" meta:resourcekey="lblHeader2" /></h3>
         </center>
     <div id="content">
-        <div id="leftside">
+        <div id="left">
             <center>
                 <asp:Label ID="langLabel" runat="server" Text="Please choose your language:" meta:resourcekey="langLabel"></asp:Label>
                 <br />
@@ -27,7 +27,7 @@
             </asp:DropDownList>
             </center>
         </div>
-        <div id="rightside">
+        <div id="right">
             <asp:Label ID="helloLabel" runat="server" Text="Hello" meta:resourcekey="helloLabel"></asp:Label>
             <asp:Label ID="mrLabel" runat="server" meta:resourcekey="mrLabel" ></asp:Label>
             <asp:Label ID="mrsLabel" runat="server" meta:resourcekey="mrsLabel" />

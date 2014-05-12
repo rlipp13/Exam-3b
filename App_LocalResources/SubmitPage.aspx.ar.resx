@@ -118,27 +118,27 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="helloLabel.text" xml:space="preserve">
-    <value>你好</value>
+    <value>مرحبا</value>
   </data>
   <data name="label3.text" xml:space="preserve">
-    <value>我希望你有一個偉大的日子，當你畢業的</value>
+    <value>آمل أن يكون لديك يوم عظيم عند التخرج على</value>
   </data>
   <data name="langLabel.text" xml:space="preserve">
-    <value>請選擇您的語言：</value>
+    <value>: الرجاء اختيار لغتك</value>
   </data>
-  <data name="mrLabel.text" xml:space="preserve">
-    <value>先生</value>
+  <data name="lblHeader1.text" xml:space="preserve">
+    <value>6K:183 مرحبا بكم في</value>
   </data>
-  <data name="mrsLabel.text" xml:space="preserve">
-    <value>夫人</value>
+  <data name="lblHeader2.text" xml:space="preserve">
+    <value>تصميم وتطوير البرمجيات</value>
   </data>
   <data name="visitLabel.text" xml:space="preserve">
-    <value>請訪問我的</value>
+    <value>يرجى زيارة لي على</value>
   </data>
   <data name="wishLabel.text" xml:space="preserve">
-    <value>我祝愿你在你的職業生涯，畢業後。我希望你賺</value>
+    <value>أتمنى لكم التوفيق في حياتك المهنية بعد التخرج. آمل أن تكسب</value>
   </data>
   <data name="wishLabel2.text" xml:space="preserve">
-    <value>在你的第一份工作的薪水！</value>
+    <value>كما راتبا في وظيفتك الأولى!</value>
   </data>
 </root>

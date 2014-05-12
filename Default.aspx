@@ -14,7 +14,7 @@
         <h3><asp:Label ID="lblHeader2" runat="server" text="Software Design and Development" meta:resourcekey="lblHeader2" /></h3>
         </center>
     <div id="content">
-        <div id="leftside">
+        <div id="left">
             <center>
                 <asp:Label ID="langLabel" runat="server" Text="Please choose your language:" meta:resourcekey="langLabel" ></asp:Label>
                 <br />
@@ -27,7 +27,7 @@
             </asp:DropDownList>
             </center>
         </div>
-        <div id="rightside">
+        <div id="right">
             <asp:Label ID="nameLabel" runat="server" text="My name is" meta:resourcekey="nameLabel" />
             &nbsp;<asp:TextBox ID="tbName" runat="server" Width="191px" Font-Underline="False" style="margin-bottom: 0px" value="Enter full name" onFocus="this.value=''"></asp:TextBox>
             <br />

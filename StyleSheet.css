@@ -11,7 +11,7 @@
     margin: 0 auto;
 }
 
-#leftside {
+#left {
     width: 191px;
     height: 500px;
     border: 2px solid black;
@@ -19,7 +19,7 @@
     float: left;
 }
 
-#rightside {
+#right {
     width: 450px;
     height: 500px;
     border: 2px solid black;

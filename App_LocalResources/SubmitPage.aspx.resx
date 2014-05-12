@@ -126,11 +126,11 @@
   <data name="langLabel.text" xml:space="preserve">
     <value>Please choose your language:</value>
   </data>
-  <data name="mrLabel.text" xml:space="preserve">
-    <value>Mr.</value>
+  <data name="lblHeader1.text" xml:space="preserve">
+    <value>Welcome to 6K:183</value>
   </data>
-  <data name="mrsLabel.text" xml:space="preserve">
-    <value>Mrs.</value>
+  <data name="lblHeader2.text" xml:space="preserve">
+    <value>Software Design and Development</value>
   </data>
   <data name="visitLabel.text" xml:space="preserve">
     <value>Please visit me on</value>

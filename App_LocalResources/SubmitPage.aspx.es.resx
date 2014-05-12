@@ -118,27 +118,27 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="helloLabel.text" xml:space="preserve">
-    <value>مرحبا</value>
+    <value>¡Hola</value>
   </data>
   <data name="label3.text" xml:space="preserve">
-    <value>آمل أن يكون لديك يوم عظيم عند التخرج على</value>
+    <value>Espero que tengas un gran día cuando se gradúe en</value>
   </data>
   <data name="langLabel.text" xml:space="preserve">
-    <value>: الرجاء اختيار لغتك</value>
+    <value>Por favor seleccione su idioma:</value>
   </data>
-  <data name="mrLabel.text" xml:space="preserve">
-    <value>سيد</value>
+  <data name="lblHeader1.text" xml:space="preserve">
+    <value>Bienvenido a 6K: 183</value>
   </data>
-  <data name="mrsLabel.text" xml:space="preserve">
-    <value>مدام</value>
+  <data name="lblHeader2.text" xml:space="preserve">
+    <value>Diseño y Desarrollo de Software</value>
   </data>
   <data name="visitLabel.text" xml:space="preserve">
-    <value>يرجى زيارة لي على</value>
+    <value>Por favor, visite conmigo en</value>
   </data>
   <data name="wishLabel.text" xml:space="preserve">
-    <value>أتمنى لكم التوفيق في حياتك المهنية بعد التخرج. آمل أن تكسب</value>
+    <value>Te deseo lo mejor en su carrera después de la graduación. Espero que usted gana</value>
   </data>
   <data name="wishLabel2.text" xml:space="preserve">
-    <value>كما راتبا في وظيفتك الأولى!</value>
+    <value>como un salario en su primer trabajo!</value>
   </data>
 </root>
